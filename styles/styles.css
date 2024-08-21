@@ -47,7 +47,7 @@ body {
     font-weight: 400;
     text-transform: initial;
     text-align: left;
-    line-height: 35px; /* 100% */
+    line-height: 35px;
     letter-spacing: 0;
     border-radius: 20px;
     border: 2px solid #000;
